@@ -1,6 +1,5 @@
 - 👋 Hi there
 - 👩‍💻 Novice programmer
-- 🌱 Future senior backend developer
 - 📫 How to reach me:heliyamarkeyah1384hlya@gmail.com 
 - 😄 Pronouns: she/ her
 
